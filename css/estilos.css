@@ -1,0 +1,21 @@
+
+input{
+    width: 100%;
+}
+
+
+#descricao{
+    height: 100px;
+}
+
+.hrv{ 
+  border-left:    1px solid rgba(139, 152, 158, 0.425);
+}
+
+#livrowall{
+    background-image: url(../img/livraria.jpg); 
+}
+#exemplo{
+    height:200px;
+  }
+
